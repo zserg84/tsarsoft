@@ -847,17 +847,18 @@ AppAsset::register($this);
                     <div class="column blog-block">Много интересного о компании<br/>в нашем <a href="<?php echo \yii\helpers\Url::toRoute('blog/default/index')?>" class="link link-follow link-solid">Царь-Блоге</a></div>
                     <div class="column social-link">
                         <div class="head">Расскажите о нас друзьям</div>
-                        <ul class="soc-list">
-                            <li class="soc-elem">
-                                <a href="#" class="soc-link vk"></a>
-                            </li>
-                            <li class="soc-elem">
-                                <a href="#" class="soc-link fb"></a>
-                            </li>
-                            <li class="soc-elem">
-                                <a href="#" class="soc-link tw"></a>
-                            </li>
-                        </ul>
+<!--                        <ul class="soc-list">-->
+<!--                            <li class="soc-elem">-->
+<!--                                <a href="#" class="soc-link vk"></a>-->
+<!--                            </li>-->
+<!--                            <li class="soc-elem">-->
+<!--                                <a href="#" class="soc-link fb"></a>-->
+<!--                            </li>-->
+<!--                            <li class="soc-elem">-->
+<!--                                <a href="#" class="soc-link tw"></a>-->
+<!--                            </li>-->
+<!--                        </ul>-->
+                        <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script><div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter"></div>
                     </div>
                 </div>
                 <div class="bottom-line">
