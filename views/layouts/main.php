@@ -864,7 +864,7 @@ AppAsset::register($this);
                 <div class="bottom-line">
                     <div class="cont wrap-column">
                         <div class="column copyright">Copyright (С) Царь-софт, 2013-2014</div>
-                        <div class="column Gods-help">Разработно с Божьей помощью</div>
+                        <div class="column Gods-help">Разработано с Божьей помощью</div>
                     </div>
                 </div>
             </div>
