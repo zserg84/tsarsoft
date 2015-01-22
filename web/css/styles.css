@@ -956,81 +956,81 @@ a img {
         .footer .head-line .social-link {
           font-size: 26px;
           line-height: 32px; } }
-    .footer .head-line .bottom-line {
-      background: #000;
-      height: 30px;
-      line-height: 30px;
-      width: 100%;
-      margin-top: 64px; }
-      @media only screen and (min-width: 320px) and (max-width: 599px) {
-        .footer .head-line .bottom-line {
-          width: 100%;
-          margin-bottom: 0px;
-          margin-top: 19px;
-          font-size: 12px; } }
+  .footer .bottom-line {
+    background: #000;
+    height: 30px;
+    line-height: 30px;
+    width: 100%;
+    margin-top: 64px; }
+    @media only screen and (min-width: 320px) and (max-width: 599px) {
+      .footer .bottom-line {
+        width: 100%;
+        margin-bottom: 0px;
+        margin-top: 29px;
+        font-size: 12px; } }
+    @media only screen and (min-width: 1024px) and (max-width: 1279px) {
+      .footer .bottom-line {
+        height: 30px;
+        line-height: 30px;
+        margin-top: 81px; } }
+    @media only screen and (min-width: 1280px) and (max-width: 1919px) {
+      .footer .bottom-line {
+        height: 30px;
+        line-height: 30px;
+        margin-top: 81px; } }
+    @media only screen and (min-width: 1920px) {
+      .footer .bottom-line {
+        height: 42px;
+        line-height: 42px;
+        margin-top: 92px; } }
+    .footer .bottom-line .cont {
+      max-width: 1140px;
+      margin: auto; }
       @media only screen and (min-width: 1024px) and (max-width: 1279px) {
-        .footer .head-line .bottom-line {
-          height: 30px;
-          line-height: 30px;
-          margin-top: 81px; } }
+        .footer .bottom-line .cont {
+          max-width: 1000px; } }
       @media only screen and (min-width: 1280px) and (max-width: 1919px) {
-        .footer .head-line .bottom-line {
-          height: 30px;
-          line-height: 30px;
-          margin-top: 64px; } }
+        .footer .bottom-line .cont {
+          max-width: 1000px; } }
       @media only screen and (min-width: 1920px) {
-        .footer .head-line .bottom-line {
-          height: 42px;
-          line-height: 42px;
-          margin-top: 92px; } }
-      .footer .head-line .bottom-line .cont {
-        max-width: 1140px;
-        margin: auto; }
+        .footer .bottom-line .cont {
+          max-width: 1400px; } }
+      .footer .bottom-line .cont .copyright {
+        text-align: left;
+        font-size: 14px; }
+        @media only screen and (min-width: 320px) and (max-width: 599px) {
+          .footer .bottom-line .cont .copyright {
+            font-size: 9px !important; } }
+        @media only screen and (min-width: 600px) and (max-width: 1023px) {
+          .footer .bottom-line .cont .copyright {
+            font-size: 12px; } }
         @media only screen and (min-width: 1024px) and (max-width: 1279px) {
-          .footer .head-line .bottom-line .cont {
-            max-width: 1000px; } }
+          .footer .bottom-line .cont .copyright {
+            font-size: 14px; } }
         @media only screen and (min-width: 1280px) and (max-width: 1919px) {
-          .footer .head-line .bottom-line .cont {
-            max-width: 1000px; } }
+          .footer .bottom-line .cont .copyright {
+            font-size: 14px; } }
         @media only screen and (min-width: 1920px) {
-          .footer .head-line .bottom-line .cont {
-            max-width: 1400px; } }
-        .footer .head-line .bottom-line .cont .copyright {
-          text-align: left;
-          font-size: 14px; }
-          @media only screen and (min-width: 320px) and (max-width: 599px) {
-            .footer .head-line .bottom-line .cont .copyright {
-              font-size: 11px !important; } }
-          @media only screen and (min-width: 600px) and (max-width: 1023px) {
-            .footer .head-line .bottom-line .cont .copyright {
-              font-size: 12px; } }
-          @media only screen and (min-width: 1024px) and (max-width: 1279px) {
-            .footer .head-line .bottom-line .cont .copyright {
-              font-size: 14px; } }
-          @media only screen and (min-width: 1280px) and (max-width: 1919px) {
-            .footer .head-line .bottom-line .cont .copyright {
-              font-size: 14px; } }
-          @media only screen and (min-width: 1920px) {
-            .footer .head-line .bottom-line .cont .copyright {
-              font-size: 18px; } }
-        .footer .head-line .bottom-line .cont .Gods-help {
-          text-align: right;
-          font-size: 14px; }
-          @media only screen and (min-width: 320px) and (max-width: 599px) {
-            .footer .head-line .bottom-line .cont .Gods-help {
-              font-size: 11px !important; } }
-          @media only screen and (min-width: 600px) and (max-width: 1023px) {
-            .footer .head-line .bottom-line .cont .Gods-help {
-              font-size: 12px; } }
-          @media only screen and (min-width: 1024px) and (max-width: 1279px) {
-            .footer .head-line .bottom-line .cont .Gods-help {
-              font-size: 14px; } }
-          @media only screen and (min-width: 1280px) and (max-width: 1919px) {
-            .footer .head-line .bottom-line .cont .Gods-help {
-              font-size: 14px; } }
-          @media only screen and (min-width: 1920px) {
-            .footer .head-line .bottom-line .cont .Gods-help {
-              font-size: 18px; } }
+          .footer .bottom-line .cont .copyright {
+            font-size: 18px; } }
+      .footer .bottom-line .cont .Gods-help {
+        text-align: right;
+        font-size: 14px; }
+        @media only screen and (min-width: 320px) and (max-width: 599px) {
+          .footer .bottom-line .cont .Gods-help {
+            font-size: 9px !important; } }
+        @media only screen and (min-width: 600px) and (max-width: 1023px) {
+          .footer .bottom-line .cont .Gods-help {
+            font-size: 12px; } }
+        @media only screen and (min-width: 1024px) and (max-width: 1279px) {
+          .footer .bottom-line .cont .Gods-help {
+            font-size: 14px; } }
+        @media only screen and (min-width: 1280px) and (max-width: 1919px) {
+          .footer .bottom-line .cont .Gods-help {
+            font-size: 14px; } }
+        @media only screen and (min-width: 1920px) {
+          .footer .bottom-line .cont .Gods-help {
+            font-size: 18px; } }
   .footer .b-share-icon {
     background: url(../img/social-sprite.png) no-repeat !important; }
   .footer .b-share-icon_vkontakte {
