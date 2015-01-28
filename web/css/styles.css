@@ -1230,6 +1230,9 @@ html {
 @media only screen and (orientation: landscape) and (min-width: 320px) and (max-width: 599px) {
   .landing .frame-1 {
     padding-bottom: 20px; } }
+@media only screen and (min-width: 320px) and (max-width: 599px) {
+  .landing .frame-1 {
+    padding-bottom: 20px; } }
 .landing .frame-1 .wrap-content {
   width: 480px;
   height: 100%; }
@@ -1353,6 +1356,9 @@ html {
 .landing .frame-2 {
   background: #fff; }
 @media only screen and (orientation: landscape) and (min-width: 320px) and (max-width: 599px) {
+  .landing .frame-2 {
+    padding-bottom: 20px; } }
+@media only screen and (min-width: 320px) and (max-width: 599px) {
   .landing .frame-2 {
     padding-bottom: 20px; } }
 .landing .frame-2 .wrap-content {
@@ -1736,6 +1742,9 @@ html {
   background: linear-gradient(to bottom, #e9501a 0%, #f8d192 100%);
   overflow: hidden; }
 @media only screen and (orientation: landscape) and (min-width: 320px) and (max-width: 599px) {
+  .landing .frame-3 {
+    height: 400px; } }
+@media only screen and (min-width: 320px) and (max-width: 599px) {
   .landing .frame-3 {
     height: 400px; } }
 .landing .frame-3:before {
@@ -2162,6 +2171,9 @@ html {
 @media only screen and (orientation: landscape) and (min-width: 320px) and (max-width: 599px) {
   .landing .frame-4 {
     padding: 20px 0; } }
+@media only screen and (min-width: 320px) and (max-width: 599px) {
+  .landing .frame-4 {
+    padding: 20px 0; } }
 .landing .frame-4 .wrap-content {
   width: 600px;
   margin: auto; }
@@ -2294,6 +2306,9 @@ html {
   background: url(../img/bg-pattern.jpg) center center repeat;
   color: #939393; }
 @media only screen and (orientation: landscape) and (min-width: 320px) and (max-width: 599px) {
+  .landing .frame-5 {
+    padding: 20px 0; } }
+@media only screen and (min-width: 320px) and (max-width: 599px) {
   .landing .frame-5 {
     padding: 20px 0; } }
 .landing .frame-5 .decorate-bg {
@@ -2596,6 +2611,10 @@ html {
 .landing .frame-6 {
   background: #fff; }
 @media only screen and (orientation: landscape) and (min-width: 320px) and (max-width: 599px) {
+  .landing .frame-6 {
+    padding-top: 20px;
+    height: 450px; } }
+@media only screen and (min-width: 320px) and (max-width: 599px) {
   .landing .frame-6 {
     padding-top: 20px;
     height: 450px; } }
